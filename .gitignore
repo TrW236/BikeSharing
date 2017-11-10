@@ -1,0 +1,9 @@
+Bike-Sharing-Dataset
+assets
+.ipynb_checkpoints
+.idea
+requirements.txt
+pics
+Your_first_neural_network.ipynb
+
+__pycache__
