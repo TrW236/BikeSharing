@@ -1,4 +1,4 @@
-# Neural Network of Bike Sharing
+# Bike Sharing (Fully Connected Neural Network)
 
 ## Dataset
 
